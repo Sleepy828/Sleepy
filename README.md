@@ -8,3 +8,5 @@
 #if everyone is still alive in the first round they pick another number until someone is dead
 #If that player is dead it will pop up "Player 1 is dead"
 #and the will keep playing until one player is alive
+#But if the player picked a number that is not 1-6 it will show invalid and pick a number again
+#Same goes to the Players if they go beyond 6 it will show invalid they will pick a number again
